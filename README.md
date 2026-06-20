@@ -44,3 +44,7 @@ Local: `opcional-docker/`
 * Bash
 * Git
 
+## Observação
+
+Cada parte possui seu próprio README com detalhes da implementação, execução e evidências.
+
