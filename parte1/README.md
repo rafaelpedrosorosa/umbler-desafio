@@ -16,9 +16,9 @@ Para mais detalhes sobre o processo de diagnóstico e troubleshooting, consulte:
 
 #### Serviços ativos
 
-![Serviços Ativos](parte1/evidencias/01-servicos-ativos.png)
+![Serviços Ativos](evidencias/01-servicos-ativos.png)
 
 #### Execução do Health Check
 
-![Health Check](parte1/evidencias/02-health-check-e-log.png)
+![Health Check](evidencias/02-health-check-e-log.png)
 
